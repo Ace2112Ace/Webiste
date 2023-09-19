@@ -1,0 +1,53 @@
+* {
+    border: solid;
+}
+
+
+.header{
+    background-color: black;
+    color:gold;
+    display:flex;
+    justify-content:space-around;
+}
+.body{
+    background-color: black;
+    color:gold;
+    display:flex;
+    justify-content:space-around;
+}
+.arms{
+    background-color: black;
+    color:gold;
+    display:flex;
+    justify-content:space-around;
+}
+.legs{
+    background-color: black;
+    color:gold;
+    display:flex;
+    justify-content:space-around;
+}
+.feet{
+    background-color: black;
+    color:gold;
+    display:flex;
+    justify-content:space-around;
+}
+.socks{
+    background-color: black;
+    color:gold;
+    display:flex;
+    justify-content:space-around;
+}
+.shoe{
+    background-color: black;
+    color:gold;
+    display:flex;
+    justify-content:space-around;
+}
+.shoelace{
+    background-color: black;
+    color:gold;
+    display:flex;
+    justify-content:space-around;
+}
